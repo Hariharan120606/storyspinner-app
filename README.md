@@ -4,9 +4,10 @@ Imagine a platform where writers can upload their content—whether it’s artic
 This isn’t just a tool for writers—it’s a game-changer for readers, educators, and content creators. Whether you’re a blogger trying to reach a busy audience, a teacher making lessons more accessible, or a storyteller captivating young minds, StorySpinner adapts your content to suit every user. Powered by Microsoft Azure’s AI and cloud capabilities, it’s scalable, secure, and ready to grow with your vision. Let’s make content creation effortless and consumption delightful—upload, transform, and share with the world.
 
 Technology Stack:
+Front end - Java script depoyed using python
 Blockchain – Ethereum (ETH, ERC-20)
 
-Backend – Node.js with Express
+Backend – Node.js with Express in Microsoft Azure
 
 Smart Contracts – Solidity-based wallet security mechanisms
 
